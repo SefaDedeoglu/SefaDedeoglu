@@ -1,4 +1,4 @@
-### Hi there 👋
+https://profile-counter.glitch.me/SefaDedeoglu/count.svg
 
 <!--
 **SefaDedeoglu/SefaDedeoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
