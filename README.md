@@ -1,4 +1,4 @@
-https://profile-counter.glitch.me/SefaDedeoglu/count.svg
+![Visitor Count](https://profile-counter.glitch.me/SefaAkdeniz/count.svg)<br>
 
 <!--
 **SefaDedeoglu/SefaDedeoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
