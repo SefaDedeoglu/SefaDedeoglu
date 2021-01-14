@@ -1,5 +1,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/SefaDedeoglu/count.svg)<br>
 
+
+![Sefa's github stats](https://github-readme-stats.vercel.app/api?username=SefaDedeoglu&show_icons=true&line_height=30&theme=dark)
 <!--
 **SefaDedeoglu/SefaDedeoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
