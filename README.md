@@ -4,7 +4,8 @@
 ![Sefa's github stats](https://github-readme-stats.vercel.app/api?username=SefaDedeoglu&show_icons=true&line_height=30&theme=dark)
 
 
-🌱 I’m currently learning Angular
+🌱 I’m currently learning Reactjs
+📫 How to reach me: sefa2057@gmail.com
 <!--
 **SefaDedeoglu/SefaDedeoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
