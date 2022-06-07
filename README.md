@@ -4,7 +4,7 @@
 ![Sefa's github stats](https://github-readme-stats.vercel.app/api?username=SefaDedeoglu&show_icons=true&line_height=30&theme=dark)
 
 
-🌱 I’m currently learning Reactjs
+🌱 I’m currently learning node-express
 <br>
 📫 How to reach me: sefa2057@gmail.com
 <br>
