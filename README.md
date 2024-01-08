@@ -6,9 +6,8 @@
 
 🌱 I’m currently learning node-express
 <br>
-📫 How to reach me: sefa2057@gmail.com
+📫 How to reach me: sefadedeoglu1@icloud.com
 <br>
-📫 How to reach me: sefa@kodpilot.com
 <!--
 **SefaDedeoglu/SefaDedeoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
