@@ -1,7 +1,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/SefaDedeoglu/count.svg)<br>
 
 
-🌱 I’m currently learning python 
+🌱 I’m currently learning vue3 
 <br>
 📫 How to reach me: sefadedeoglu1@icloud.com
 <br>
