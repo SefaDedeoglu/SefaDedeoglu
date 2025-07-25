@@ -9,12 +9,10 @@
 - 🌱 Learning microservices
 - 📫 Contact me on: sefadedeoglu1@icloud.com
 
-### 🧰 Tech
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" />
-</p>
+
+
+![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=sefadedeoglu&layout=compact&langs_count=8&theme=tokyonight)
+
 
 ### 📈 Stats
 <p>
