@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sefa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Vue+%7C+NestJS+%7C+Prisma+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Vue+%7C+NestJS+%7C+Prisma" alt="Typing SVG" />
 </p>
 
 ### ✨ About Me
