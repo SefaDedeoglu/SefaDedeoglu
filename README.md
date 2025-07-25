@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/SefaDedeoglu/count.svg)<br>
+
 
 
 🌱 I’m currently learning vue3 
